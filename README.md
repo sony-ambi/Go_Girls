@@ -72,8 +72,7 @@ https://ladieslearningcode.com/program/girls-learning-code/
 28.Tech Ladies
 https://new.hiretechladies.com/join/
 
-29.Linux Chix
-https://www.linuxchix.org/
+29.[Linux Chix](https://www.linuxchix.org/)
 
 30.Lesbians Who Tech
 https://lesbianswhotech.org/sanfrancisco2019/
